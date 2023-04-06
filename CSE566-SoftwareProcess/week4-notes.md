@@ -132,6 +132,69 @@
    * Step 5: Calculate final adjusted FP - = Unadjusted FP x VAF
 
 ### Project Estimation with Use Case Points
+#Project Estimation with Use Case Points
+1. Paper is very analogous to function points paper
+2. General notion is that projects with large, complicated use
+diagrams take longer to complete
+3. Time to complete the project is a function of:
+- The number of steps to complete the use case
+- The number and complexity of the actors
+- The technical requirements of the use case such as
+concurrency, security, and performance
+- Various environmental factors such as the experience and
+knowledge of the development team
+
+#Use Case Points (UCP) Calculation:
+
+UCP = UUCP * TCF * ECF
+UUCP (Unadjusted Use Case Points)
+TCF (Technical Complexity Factor)
+ECF (Environmental Complexity Factor)
+
+UCP Method: Necessary Steps
+
+Step 1: Determine and compute Unadjusted Use Case Points (UUCPs):
+UUCP = UUCW + UAW
+UUCW (Unadjusted Use Case Weight)
+UAW (Unadjusted Actor Weight)
+Use case categories: See Table 1 (pg. 1) and Table 2 (pg. 2)
+Actor classifications: See Table 3 and Table 4 (pg. 2)
+
+Step 2: Determine and compute Technical Complexity Factor (TCF):
+- TCF takes into account the extent that various technical factors impact
+the project along with their weight in terms of complexity impact.
+• See Table 5 (pg. 3)
+- Factors are further weighted based on the role they have on the project:
+• 0: no impact
+• 3: average impact
+• 5: high influence
+- Technical Total Factor (TTF) is calculated as the sum of the weighted
+technical factors.
+• See Table 6 (pg. 3)
+- TCF = 0.6 + (.01 x Technical Total Factor)
+- TCF impacts the estimate (-40% to +30%)
+
+Step 3: Determine and compute Environmental Complexity Factor (ECF):
+- ECF takes into account the extent that various environmental factors
+impact the project along with their weight in terms of complexity impact
+• See Table 7 (pg. 4)
+- Factors are further weighted based on the role they have on the project:
+• 0: no impact
+• 3: average impact
+• 5: high influence
+- Environmental Total Factor (ETF) is calculated as the sum of the
+weighted technical factors.
+• See Table 8 (pg. 4)
+- ECF = 1.4 + (-0.3 x Environmental Total Factor)
+- TCF impacts the estimate (-57.5% to +40%)
+
+Step 4: Determine the PF as the development hours need per UCP
+| Step 5: Compute the estimated number of hours
+Total Estimate = UCP x PF
+
+
+
+
 
 ### Function Points, Use Case Points, Story Points
 
