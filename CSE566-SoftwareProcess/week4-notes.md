@@ -253,3 +253,28 @@ historical tasks:
 
 ### Re-Using Open Source Software Delivery
 
+1. Re-used open source can result in cost and schedule
+savings but also cost and schedule risks.
+2. Open source definition (see pg. 1)
+3. GetHub and SourceForge websites are repositories for open
+source.
+
+#Vigilant Integration
+ 1. Re-use of open source software requires rigorous
+  examination of the code:
+- Need to incorporate as if it were their own code
+- Make sure code meets same standards as internal
+development:
+     • Examine code using static analyzers to assess conformance
+           to best practices
+     • Perform complexity analysis
+     • Perform code inspections
+     
+#Other Considerations
+1. Determine overall costs of re-using software
+- Checklist (see pg. 3)
+2. Can use software cost estimation models targeted for re-use
+- SEER
+3.Pros and cons of re-use
+- See pg. 6
+
