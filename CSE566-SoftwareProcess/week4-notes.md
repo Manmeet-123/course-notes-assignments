@@ -227,5 +227,29 @@ squabbling
 
 ### SISE: A Novel Approach to Individual Effort Estimation
 
+1. Many models exist for estimating size for team projects, but
+not much for estimating individual software engineering effort.
+2. SISE acronym for four-step process:
+- Sort
+- Identify
+- Size
+- Evaluate
+
+#Four-Step Process
+
+1. Sort: Software engineer must track effort expended to
+complete tasks and keep a sorted historical record:
+- Record description of task
+- Estimated effort
+- Actual effort
+2. I – Identify: Compare description of planned activity to
+historical tasks:
+- Try to bound between closest smallest and largest task
+3. S – Size: Determine the prediction interval.
+4. E – Evaluate: Adjust historical estimates by any bias:
+- E.g., Overestimate by 1 hour
+
+
+
 ### Re-Using Open Source Software Delivery
 
