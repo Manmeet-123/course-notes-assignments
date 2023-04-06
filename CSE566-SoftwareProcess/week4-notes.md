@@ -128,7 +128,7 @@
    * Step 1: Count the number of logical components of each type
    * Step 2: Calculate the complexity of each type based on IFPUG rules
    * Step 3: Sum values to produce Unadjusted FP count
-   * Step 4: Determine value adjustment factor (VAF = .65 + (sum of GSCs x .01)) - General System Characteristics
+   * Step 4: Determine value adjustment factor (VAF = .65 + (sum of GSCs x .01))  (For GSC, see the figure in the Notes doc)
    * Step 5: Calculate final adjusted FP - = Unadjusted FP x VAF
 
 ### Project Estimation with Use Case Points
