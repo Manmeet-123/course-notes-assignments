@@ -198,6 +198,33 @@ Total Estimate = UCP x PF
 
 ### Function Points, Use Case Points, Story Points
 
+#Story Points and User Stories
+
+1. Story points are derived from user stories.
+- User stories are written by customer and consist of a few
+short sentences.
+- Example: "As a project manager, I want to create a project
+schedule so that I know when all my tasks happen so I can
+assign resources to them."
+2. Story points are an arbitrary measure of size.
+- To determine time to develop, you sum up the story points
+for the user stories and divide by the velocity.
+
+#Estimate and Evaluation
+1. Story points often use the Fibonacci scale (1, 2, 3, 5, 8, ...):
+- Difference between numbers is large enough to prevent
+squabbling
+- Entire team does estimating
+- Begin by reviewing user stories to select a "2" size and a
+"5" size
+- All other user stories are estimated based on comparison
+2.  SCRUM planning poker:
+- Each team member has cards with numbers on them
+- User story is discussed and then team evaluates
+
+
+
+
 ### SISE: A Novel Approach to Individual Effort Estimation
 
 ### Re-Using Open Source Software Delivery
