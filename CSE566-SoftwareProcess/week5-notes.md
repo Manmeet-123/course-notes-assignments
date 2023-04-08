@@ -96,8 +96,17 @@ Need to work toward:
   
 #### Scrum Practices and Global Software Development
 * Literature review
-* Benefits of global dev - improved quality, cheaper resources
-* Challenges - collaboration and coordination (set of synchronized actions)
+* Benefits of Global Software Development
+| Time savings
+| Cost savings
+| Improved quality
+| Round-the-clock development
+| Access to cheap or skilled resources
+* Challenges
+| Collaboration
+       - Focus on problem-solving aspects of teamwork
+| Coordination
+       - Set of synchronized actions that team members take to achieve common goals
 * How do you scale scrum?
 * Utilizing Scrum - Sprint 0, then have potentially multiple scrum teams
 * Have to have a mechanism
