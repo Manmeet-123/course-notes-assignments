@@ -16,21 +16,83 @@
    * sharing benefits of resources from diff cultures & backgrounds
    * flexibility in skill mgmt
    * reduced cycle time
+
+##Types of Activities
+1.Developing software
+2. Testing software
+3. Maintaining software
+
+
 * Challenges to GSD:
-   * Lack of strategy & shared values
-   * Insufficient communication
-   * Cultural differences
-     * high or low context culture 
-       * high context - communicates implicitly and rely heavily on context
-       * low context - rely on explicit verbal communication 
-     * polychronic - focus on doing tasks concurrently
-     * monochronic - focus on one thing at a time 
-   * Dispersed work organization
-   * Inadequate global mgmt
-   * Isolated learning
-   * Insufficient contract mgmt
-   * Unknown legal environment
-   * Different turnover rates
+
+##Lack of Strategy and Shared Values:
+Contributes to:
+1. Insufficient collaboration
+2. Unclear work split
+3.  Mismatched and misunderstood processes
+4. Ownership
+
+Need to work toward:
+1.Shared value system
+2.Team building
+
+##Insufficient Communication:
+ #Due to:
+1. Distance
+2. Time zones
+3. Cultural barriers
+ #Studies show that 15% of software development is informal communication.
+
+
+##Cultural Differences:
+ #High- or low-context culture:
+   1.High-context cultures communicate implicitly and rely heavily on context.
+   2. Low-context cultures rely on explicit verbal communication.
+   
+ #Polychronic or monochronic culture:
+   1.Polychronic cultures tend to have an emphasis on performing tasks concurrently.
+   2. Monochronic cultures tend to focus on one thing at a time.
+
+##Dispersed Work Organization:
+   #Dispersed sites add cost due to:
+   1. Overhead management
+   2. Separate and dysfunctional processes and tools
+   3. Security protocols
+  #Studies show increased management overhead for dispersed work.
+
+##Inadequate Global Management:
+  #Possible causes:
+    1.Lack of visibility
+    2.Lack of project metrics
+    3.Rivalries
+    4.Changes to requirements may be delayed across multi-sites
+
+##Isolated Learning:
+| Lessons learned are rarely shared among organizations
+| Process improvement tends to be localized
+| Effects of mistakes are not apparent and sometimeshidden
+
+##Insufficient Contract Management:
+  #Contracts are crucial for suppliers:
+     1.Must have clear deliverables
+     2.Quality levels must be defined
+
+##Unknown Legal Environment:
+     #Requires familiarity with:
+       1.Local laws
+       2.Contracts, liability
+       3.Intellectual property
+       4.Human resources management
+
+##Different Turnover Rates:
+  #Turnover rates may vary around the world.
+  #Many factors impact turnover:
+     1.Management
+     2.Culture
+     3.Responsibilities
+     4.Motivation
+
+  
   
 #### Scrum Practices and Global Software Development
 * Literature review
