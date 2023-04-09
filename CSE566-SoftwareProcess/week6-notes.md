@@ -52,7 +52,7 @@
 * IBM - 1% project budget 50% reduction in error rates
 * applicability
    * root cause analysis can be performed for defects generate during any activity: development, testing, documentation, maintenance, planning
-   * can be performed at various times: end of project, end of development, after certain number of defects (worst time is at the beginning)
+   * can be performed at various times: end of project, end of development/sprint, after certain number of defects (worst time is at the beginning)
 *  root cause - process improvement; it can also come down to human error
 *  high potential for ROI
 
