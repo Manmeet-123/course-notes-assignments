@@ -99,9 +99,9 @@
    * guidelines for selecting most likely root causes to resolve - easy does it (most feasible root cause to resolve), things--procedures--people (things and procedures are easier to change than ppl) 
 * **team implements solutions and evaluates effect**
    * proposed solutions
-      * oversights - use checklists; tools to automate checking; providing templates; perform reviews
+      * oversights - use checklists; tools to automate checking; providing templates; perform reviews;changing existing process/create new process
       * education - provide JIT, appropriate tutorials
-      * comm. failures - liaisons, tracking system, documentation, processes
+      * comm. failures - liaisons to other groups, change tracking system, documentation,changing existing process/create new process
       * transcription - automate checking, reviews 
 * **team develops and evaluates proposed solutions to eliminate defect root causes**
 * root cause analysis makes sense, is easy to apply, reduces defects, reduces rework, improves processes
