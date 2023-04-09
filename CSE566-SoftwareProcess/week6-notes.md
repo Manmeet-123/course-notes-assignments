@@ -112,7 +112,7 @@
    * less than 25 ppl
    * hard to relate to ISO/IEC or CMMI standards
    * ISO developed new standard ISO/IEC 29110 targeted to VSEs with no experience in selecting appropriate processes
-* Core is a mgmt and enginnering guide focusing on project mgmt and software implementation
+* Core of ISO/IEC 29110 is a mgmt and enginnering guide focusing on project mgmt and software implementation
 * Figure 1 - process begins with SOW and ends with customer receiving software configuration
  
 #### Hybrid Agile Software Development
