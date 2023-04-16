@@ -117,13 +117,13 @@
     * a plan for capturing the data in a timely manner must be developed  
     
     
-  # defect prevention
+  defect prevention
     * standardization
     * checklists and job aids
     * causal analysis 
     * lessons learned
     
-  # defect detection and removal 
+  defect detection and removal 
     * software inspections 
     * various levels of testing
 
