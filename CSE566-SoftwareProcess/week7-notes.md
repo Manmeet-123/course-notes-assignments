@@ -111,19 +111,20 @@
   * the quality scenarios are the leaves of the utility tree
   * each quality scenario is prioritized - high/medium/low importance for the success of the system; high/medium/low difficulty to achieve (architect's assessment)    
 <img width="479" alt="Screen Shot 2022-04-25 at 1 02 45 🌃" src="https://user-images.githubusercontent.com/17733481/165165825-afaa240d-1e85-4e12-a02d-da58ddb5ac37.png">
-* Quality functions
-  # measurement
+# Quality functions
+
+  1.measurement
     * appropriate measures must be defined for each of the attributes important to the project to facilitate the monitoring and controlling of project quality progress
     * a plan for capturing the data in a timely manner must be developed  
     
     
-  defect prevention
+  2.defect prevention
     * standardization
     * checklists and job aids
     * causal analysis 
     * lessons learned
     
-  defect detection and removal 
+  3.defect detection and removal 
     * software inspections 
     * various levels of testing
 
