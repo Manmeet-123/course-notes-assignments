@@ -3,6 +3,8 @@
 ### Software Quality Overview
 * Software quality is "extent that specific software product attributes of interest to the user are satisfied"
 * Quality management is the definition, monitoring, and assessment of development processes in order to achieve product quality as well as verification of conformance of the product to its requirements
+
+##Attributes
 * Functionality - what system does and how well it does it
 * Customer reported unique defects (CRUD)
 * Reliability - probability that service is continuously acceptable for a specified time
@@ -12,16 +14,20 @@
 * Portability
 * Reusability
 * Need to define quality attributes clearly - important to the user
+
+
 * High Quality Software
   * high quality software is not produced by accident it must be planned from the start of the project
   * quality cannot be added at the end of a project
   * the quality of the product must be monitored throughout its development
   * development processes must be continuously assessed and improved to eliminate the source of quality problems
+  
 * Costs of failing to manage software quality
   * unnecessarily expensive projects
   * late projects
   * staff dissatisfaction
   * formation of low expectations for quality
+  
 * Benefits of Effective Quality Management
   * known and predictable product quality
   * minimal risk of legal/financial repercussions
@@ -106,15 +112,18 @@
   * each quality scenario is prioritized - high/medium/low importance for the success of the system; high/medium/low difficulty to achieve (architect's assessment)    
 <img width="479" alt="Screen Shot 2022-04-25 at 1 02 45 🌃" src="https://user-images.githubusercontent.com/17733481/165165825-afaa240d-1e85-4e12-a02d-da58ddb5ac37.png">
 * Quality functions
-  * measurement
+  # measurement
     * appropriate measures must be defined for each of the attributes important to the project to facilitate the monitoring and controlling of project quality progress
     * a plan for capturing the data in a timely manner must be developed  
-  * defect prevention
+    
+    
+  # defect prevention
     * standardization
     * checklists and job aids
     * causal analysis 
     * lessons learned
-  * defect detection and removal 
+    
+  # defect detection and removal 
     * software inspections 
     * various levels of testing
 
